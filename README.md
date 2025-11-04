@@ -1,2 +1,5 @@
-# .profile
-Darkside of Son
+# 손재혁
+
+Find out who I am [here](https://sonjaehyuk.me).
+
+
